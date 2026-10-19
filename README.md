@@ -1,7 +1,9 @@
 # Thesis notes
 
 Thesis: Reimplementing core Git functionality in Rust
+
 Code repo:
+
 Overleaf:
 
 ## Where things go
